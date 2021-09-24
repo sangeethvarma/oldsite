@@ -10,8 +10,8 @@ Education
 =========
 *  M.A. Development Studies, Tata Institute of Social Sciences, Mumbai, August 2020-Present
 *  M.A. Political Science, Indira Gandhi National Open University, 2018-Present
-*  M.Sc.(Hon.s) Physics, First Class, BITS Pilani, 2013-2018
-*  B.E.(Hon.s) Electrical and Electronics Engineering, First Class, 2014-2018
+*  M.Sc.(Hon.s) Physics, BITS Pilani, 2013-2018
+*  B.E.(Hon.s) Electrical and Electronics Engineering, BITS Pilani, 2014-2018
 
 Experience
 ======
