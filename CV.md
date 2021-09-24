@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CV"
-permalink: /cv/
+permalink: /CV/
 redirect_from:
   - /resume
 ---
