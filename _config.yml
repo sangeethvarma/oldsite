@@ -99,15 +99,15 @@ post_search: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#484E5F"
-navbar-text-col: "#000000"
-Navbar-border-col: "#000000"
-page-col: "#1B1D1E"
-text-col: "#FFFFFF"
+navbar-col: "#000"
+navbar-text-col: "#FFF"
+Navbar-border-col: "#FFF"
+page-col: "#EEEEEE"
+text-col: "#000000"
 link-col: "#0153A1"
 hover-col: "#0085A1"
-footer-col: "#484E5F"
-footer-text-col: "#000000"
+footer-col: "#000"
+footer-text-col: "#FFF"
 footer-link-col: "#0153A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
@@ -118,7 +118,7 @@ footer-link-col: "#0153A1"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#000000"
+#mobile-theme-col: "#EEE"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
