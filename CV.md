@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "CV"
-toc:true
 permalink: /CV/
 redirect_from:
   - /resume
