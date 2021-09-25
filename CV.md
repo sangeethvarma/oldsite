@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-
 Education
 =========
 *  M.A. Development Studies, Tata Institute of Social Sciences, Mumbai, August 2020-Present
@@ -20,10 +19,11 @@ Experience
 
 Thesis
 ------
-  IISER, Thiruvananthapuram (August 2017- August 2018)
-
+  Indian Institute of Science Education and Research, Thiruvananthapuram\\
+  (August 2017- August 2018)
+  
   Working in the QTran (Quantum Transport) group under Dr.  Madhu Thalakulam.
-
+  
   Work included:
   - Theoretical and simulation work on quantum transport systems
   - Work on exfoliation technique for layered materials
@@ -54,16 +54,9 @@ Skills
 
 Languages
 ---------
-* Proficient in
-  - English
-  - Malayalam
-  - Hindi
-* Familiar with
-   - Tamil
-* Can read basic
-   - German
-   - French
-   - Spanish
+* Proficient in: English, Malayalam, Hindi
+* Familiar with: Tamil
+* Can read very basic: German, French and Spanish
 
 Technical Proficiency
 ---------------------
@@ -84,7 +77,6 @@ Technical Proficiency
 * Data Visualisation
 * Typesetting (LaTEX)
 * Office Software
-
 * Scripting
   - emacs-lisp
   - autohotkey
