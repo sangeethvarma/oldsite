@@ -1,10 +1,12 @@
 ---
 layout: page
 title: "CV"
+toc:true
 permalink: /CV/
 redirect_from:
   - /resume
 ---
+
 
 Education
 =========
@@ -25,7 +27,7 @@ Thesis
   Work included:
   - Theoretical and simulation work on quantum transport systems
   - Work on exfoliation technique for layered materials
-  - Automation project for data acquisition (created software workflows for setting upexperimental parameters, managing the many devices and instruments, and for managing the data generated from experiment)
+  - Automation project for data acquisition (created software workflows for setting up experimental parameters, managing the many devices and instruments, and for managing the data generated from experiment)
     - Resulted in a publication: Sharma, C.H., Surendran, A.P., **Varma, S.S**. et al. 2D superconductivity and vortex dynamics in 1T-MoS2. Commun Phys 1, 90 (2018). [<https://www.nature.com/articles/s42005-018-0091-7>]
 
 
@@ -35,7 +37,7 @@ Organisational
 8th National Conference on Diversity and Development,\\
 School of Development Studies, TISS Mumbai
 * Organizing Committee Member, TEDxBITSGoa (2013-2017)
-* Coordinator, BITS Goa Quiz Club (2015s2016)
+* Coordinator, BITS Goa Quiz Club (2015-2016)
   - Organiser, participant and winner of many quizzes at the national and regional levels
 
 	
