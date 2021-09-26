@@ -9,26 +9,43 @@ redirect_from:
 
 Education
 =========
-*  M.A. Development Studies, Tata Institute of Social Sciences, Mumbai, August 2020-Present
-*  M.A. Political Science, Indira Gandhi National Open University, 2018-Present
-*  M.Sc.(Hon.s) Physics, BITS Pilani, 2013-2018
-*  B.E.(Hon.s) Electrical and Electronics Engineering, BITS Pilani, 2014-2018
+ **M.A. Development Studies**, Tata Institute of Social Sciences, Mumbai,\\
+ August 2020-Present\\
+**M.A. Political Science**, Indira Gandhi National Open University,\\
+ 2018-Present\\
+ **M.Sc.(Hon.s) Physics**, BITS Pilani,\\
+ 2013-2018\\
+ **B.E.(Hon.s) Electrical and Electronics Engineering**, BITS Pilani,\\
+ 2014-2018
+
+---
+
+Dissertation (Ongoing)
+===
+Topic : Relation between public understanding of science(s) and response towards crises in Kerala, in light of COVID-19
+
+Supervisor: Dr Suresh Madhavan, TISS, Mumbai
+
+Investigating the way the attitudes towards, and understanding of, various fields (medicine, economics, history, and so on) and institutions of knowledge relate to and people's responses towards crises, using the COVID-19 pandemic as a starting point.
+
+---
 
 Experience
 ======
 
-Thesis
+Academic
 ------
-  Indian Institute of Science Education and Research, Thiruvananthapuram\\
-  (August 2017- August 2018)
+Thesis Work, QTran Lab,\\
+Indian Institute of Science Education and Research, Thiruvananthapuram\\
+(August 2017- August 2018)
   
-  Working in the QTran (Quantum Transport) group under Dr.  Madhu Thalakulam.
+Working in the QTran (Quantum Transport) group under Dr.  Madhu Thalakulam.
   
-  Work included:
-  - Theoretical and simulation work on quantum transport systems
-  - Work on exfoliation technique for layered materials
-  - Automation project for data acquisition (created software workflows for setting up experimental parameters, managing the many devices and instruments, and for managing the data generated from experiment)
-    - Resulted in a publication: Sharma, C.H., Surendran, A.P., **Varma, S.S**. et al. 2D superconductivity and vortex dynamics in 1T-MoS2. Commun Phys 1, 90 (2018). [<https://www.nature.com/articles/s42005-018-0091-7>]
+Work included:
+	- Theoretical and simulation work on quantum transport systems
+	- Work on exfoliation technique for layered materials
+	- Automation project for data acquisition (created software workflows for setting up experimental parameters, managing the many devices and instruments, and for managing the data generated from experiment)
+		- Resulted in a publication: Sharma, C.H., Surendran, A.P., **Varma, S.S**. et al. 2D superconductivity and vortex dynamics in 1T-MoS2. Commun Phys 1, 90 (2018). [<https://www.nature.com/articles/s42005-018-0091-7>]
 
 
 Organisational
@@ -49,6 +66,8 @@ Internship
    - Campaigned for the HelpAge AdvantAge Benefit Cards program by contacting various companies and local businesses. Got 3 companies on board.
    - Conducted Elder Abuse Awareness Day programs in Kochi.
 
+---
+
 Skills
 ======
 
@@ -63,7 +82,7 @@ Technical Proficiency
 * Statistics and Quantitative Research
   - Proficient at quantitative research methods
   - Software tools such as MATLAB, numpy, Stata, SPSS, R
-* Data Processing, Organization and Visualisation
+* Data Acquisition, Processing, Organization and Visualisation Technologies
 * Computer Programming 
   - Languages : Python, C++, some familiarity with lisps
 * Web Development
@@ -74,8 +93,11 @@ Technical Proficiency
 * Office Software
 * General proficiency with scripting, computers and technology
 
+---
+
 Publication
 ======
+
 Sharma, C.H., Surendran, A.P., Varma, S.S. et al. 2D superconductivity and vortex dynamics in 1T-MoS2. Commun Phys 1, 90 (2018).\\
 <https://www.nature.com/articles/s42005-018-0091-7>
  
