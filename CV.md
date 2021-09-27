@@ -26,7 +26,7 @@ Topic : Relation between public understanding of science(s) and response towards
 
 Supervisor: Dr Suresh Madhavan, TISS, Mumbai
 
-Investigating the way the attitudes towards, and understanding of, various fields (medicine, economics, history, and so on) and institutions of knowledge relate to and people's responses towards crises, using the COVID-19 pandemic as a starting point.
+Investigating the way the attitudes towards, and understanding of, various fields (medicine, economics, history, and so on) and institutions of knowledge relate to and people's responses towards crises, using the COVID-19 pandemic as a starting point. Survey and Interviews are being planned.
 
 ---
 
@@ -43,7 +43,7 @@ Working in the QTran (Quantum Transport) group under Dr.  Madhu Thalakulam.
   
 Work included:
 	- Theoretical and simulation work on quantum transport systems
-	- Work on exfoliation technique for layered materials
+	- Work on exfoliation techniques for layered materials
 	- Automation project for data acquisition (created software workflows for setting up experimental parameters, managing the many devices and instruments, and for managing the data generated from experiment)
 		- Resulted in a publication: Sharma, C.H., Surendran, A.P., **Varma, S.S**. et al. 2D superconductivity and vortex dynamics in 1T-MoS2. Commun Phys 1, 90 (2018). [<https://www.nature.com/articles/s42005-018-0091-7>]
 
@@ -83,12 +83,13 @@ Technical Proficiency
   - Proficient at quantitative research methods
   - Software tools such as MATLAB, numpy, Stata, SPSS, R
 * Data Acquisition, Processing, Organization and Visualisation Technologies
+* Qualitative Research Methods
 * Computer Programming 
   - Languages : Python, C++, some familiarity with lisps
 * Web Development
   - Basics of HTML, CSS and JavaScript
 * Databases
-  - SQL, as well general Relational Databse operations
+  - SQL, as well general Relational Database operations
 * Typesetting (LaTEX)
 * Office Software
 * General proficiency with scripting, computers and technology
