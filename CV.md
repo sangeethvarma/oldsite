@@ -75,7 +75,7 @@ Languages
 ---------
 * Proficient in: English, Malayalam, Hindi
 * Familiar with: Tamil
-* Can read very basic: German, French and Spanish
+* Can comprehend basic Spanish, French and German
 
 Technical Proficiency
 ---------------------
