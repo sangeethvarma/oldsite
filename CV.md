@@ -54,10 +54,10 @@ Tutored a group of peers from diverse backgrounds in math, English and social sc
 Internship
 ----------
 * HelpAge India, Kochi (May-July, 2015)
-   - Performed a survey on Elder Abuse in the Chullickal ward of the Kochi Municipal Corporation, on behalf of the Corporation.
-   - A report was created and presented to the authorities.
-   - Campaigned for the HelpAge AdvantAge Benefit Cards program by contacting various companies and local businesses. Got 3 companies on board.
+   - Performed a survey on Elder Abuse in the Chullickal ward of the Kochi Municipal Corporation, on behalf of the Corporation. Drafted and presented to the authorities illustrating the situation.
    - Conducted Elder Abuse Awareness Day programs in Kochi.
+   - Campaigned for the HelpAge AdvantAge Benefit Cards program by contacting various companies and local businesses. Got 3 companies on board.
+
 
 Organisational
 --------------
