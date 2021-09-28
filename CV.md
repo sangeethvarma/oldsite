@@ -33,20 +33,31 @@ Investigating the way the attitudes towards, and understanding of, various field
 Experience
 ======
 
-Academic
+Research
 ------
 Thesis Work, QTran Lab,\\
 Indian Institute of Science Education and Research, Thiruvananthapuram\\
-(August 2017- August 2018)
+(May 2017- December 2018)
   
 Working in the QTran (Quantum Transport) group under Dr.  Madhu Thalakulam.
   
 Work included:
-	- Theoretical and simulation work on quantum transport systems
-	- Work on exfoliation techniques for layered materials
-	- Automation project for data acquisition (created software workflows for setting up experimental parameters, managing the many devices and instruments, and for managing the data generated from experiment)
-		- Resulted in a publication: Sharma, C.H., Surendran, A.P., **Varma, S.S**. et al. 2D superconductivity and vortex dynamics in 1T-MoS2. Commun Phys 1, 90 (2018). [<https://www.nature.com/articles/s42005-018-0091-7>]
+- Theoretical and simulation work on quantum transport systems
+- Designed partially automated data acquisition system. Created software workflows for the set-up of experimental parameters, management of the multiple devices and instruments, and for management of data generated from experiments.
+  - Resulted in a publication: Sharma, C.H., Surendran, A.P., **Varma, S.S**. et al. 2D superconductivity and vortex dynamics in 1T-MoS2. Commun Phys 1, 90 (2018). [<https://www.nature.com/articles/s42005-018-0091-7>]
+- Work on exfoliation techniques for layered materials
 
+Teaching
+--------
+Tutored a group of peers from diverse backgrounds in math, English and social sciences.
+
+Internship
+----------
+* HelpAge India, Kochi (May-July, 2015)
+   - Performed a survey on Elder Abuse in the Chullickal ward of the Kochi Municipal Corporation, on behalf of the Corporation.
+   - A report was created and presented to the authorities.
+   - Campaigned for the HelpAge AdvantAge Benefit Cards program by contacting various companies and local businesses. Got 3 companies on board.
+   - Conducted Elder Abuse Awareness Day programs in Kochi.
 
 Organisational
 --------------
@@ -57,25 +68,10 @@ School of Development Studies, TISS Mumbai
 * Coordinator, BITS Goa Quiz Club (2015-2016)
   - Organiser, participant and winner of many quizzes at the national and regional levels
 
-	
-Internship
-----------
-* HelpAge India, Kochi (May-July, 2015)
-   - Performed a survey on Elder Abuse in the Chullickal ward of the Kochi Municipal Corporation, on behalf of the Corporation.
-   - A report was created and presented to the authorities.
-   - Campaigned for the HelpAge AdvantAge Benefit Cards program by contacting various companies and local businesses. Got 3 companies on board.
-   - Conducted Elder Abuse Awareness Day programs in Kochi.
-
 ---
 
 Skills
 ======
-
-Languages
----------
-* Proficient in: English, Malayalam, Hindi
-* Familiar with: Tamil
-* Can comprehend basic Spanish, French and German
 
 Technical Proficiency
 ---------------------
@@ -93,6 +89,12 @@ Technical Proficiency
 * Typesetting (LaTEX)
 * Office Software
 * General proficiency with scripting, computers and technology
+
+Languages
+---------
+* Proficient in: English, Malayalam, Hindi
+* Familiar with: Tamil
+* Can comprehend basic Spanish, French and German
 
 ---
 
