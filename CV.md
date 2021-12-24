@@ -4,7 +4,7 @@ title: "CV"
 toc: true
 permalink: /CV/
 redirect_from:
-  - /resume
+  - /resume/
 ---
 
 Education
@@ -43,21 +43,20 @@ Working in the QTran (Quantum Transport) group under Dr.  Madhu Thalakulam.
   
 Work included:
 - Theoretical and simulation work on quantum transport systems
-- Designed partially automated data acquisition system. Created software workflows for the set-up of experimental parameters, management of the multiple devices and instruments, and for management of data generated from experiments.
+- Designed and implemented partially automated parameter control and data acquisition system. Created software workflows for the set-up of experimental parameters, management of the multiple devices and instruments, and for management of data generated from experiments.
   - Resulted in a publication: Sharma, C.H., Surendran, A.P., **Varma, S.S**. et al. 2D superconductivity and vortex dynamics in 1T-MoS2. Commun Phys 1, 90 (2018). [<https://www.nature.com/articles/s42005-018-0091-7>]
 - Work on exfoliation techniques for layered materials
-
-Teaching
---------
-Tutored a group of peers from diverse backgrounds in math, English and social sciences.
 
 Internship
 ----------
 * HelpAge India, Kochi (May-July, 2015)
-   - Performed a survey on Elder Abuse in the Chullickal ward of the Kochi Municipal Corporation, on behalf of the Corporation. Drafted and presented to the authorities illustrating the situation.
+   - Designed and conducted a household survey on the conditions of the elderly in the Chullickal ward of the Kochi Municipal Corporation, on behalf of the Corporation. Drafted and presented a report on the same.
    - Conducted Elder Abuse Awareness Day programs in Kochi.
    - Campaigned for the HelpAge AdvantAge Benefit Cards program by contacting various companies and local businesses. Got 3 companies on board.
 
+Teaching
+--------
+Tutored a group of peers from diverse backgrounds in math, English and social sciences.
 
 Organisational
 --------------
