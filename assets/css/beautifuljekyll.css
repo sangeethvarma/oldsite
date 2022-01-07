@@ -1095,3 +1095,25 @@ pre {
   }
 }
 
+.sidenav {
+  /* height: 100%; /\* Full-height: remove this if you want "auto" height *\/ */
+  width: 200px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: ; /* Stay on top */
+  /* top: 100px; /\* Stay at the top *\/ */
+  /* bottom: 50px; */
+  left: 0;
+  /* background-color: #111; /\* Black *\/ */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}
+
+
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: $grey-color;
+        margin-top: $spacing-unit / 3;
+    }
+}
