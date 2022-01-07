@@ -1,1 +1,1 @@
-Code for Website : www.sangeethvarma.com
+Code for personal website  www.sangeethvarma.com
