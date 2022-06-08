@@ -37,7 +37,7 @@ Experience
 
 Research
 ------
-Thesis Work, QTran Lab,\\
+**__Thesis Work__**, QTran Lab,\\
 Indian Institute of Science Education and Research, Thiruvananthapuram\\
 (May 2017- December 2018)
   
