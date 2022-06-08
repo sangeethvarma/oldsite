@@ -24,11 +24,11 @@ Education
 
 Dissertation (Ongoing)
 ===
-Topic : Relation between public understanding of science(s) and response towards crises in Kerala, in light of COVID-19
+Topic : Relation between public understanding(s) of science(s) and response towards crises in Kerala, in light of COVID-19
 
 Supervisor: Dr Suresh Madhavan, TISS, Mumbai
 
-Investigating the way the attitudes towards, and understanding of, various fields (medicine, economics, history, and so on) and institutions of knowledge relate to and people's responses towards crises, using the COVID-19 pandemic as a starting point. Survey and Interviews are being planned.
+Investigating the way the attitudes towards, and understandings of, various fields (medicine, economics, history, and so on) and institutions of knowledge relate to and inform people's responses towards crises, using the COVID-19 pandemic as a starting point. Survey and Interviews are in progress.
 
 ---
 
