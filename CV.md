@@ -12,9 +12,9 @@ redirect_from:
 Education
 =========
  **M.A. Development Studies**, Tata Institute of Social Sciences, Mumbai,\\
- August 2020-Present\\
+ 2020-2023\\
 **M.A. Political Science**, Indira Gandhi National Open University,\\
- 2018-Present\\
+ 2018-2021\\
  **M.Sc.(Hon.s) Physics**, BITS Pilani,\\
  2013-2018\\
  **B.E.(Hon.s) Electrical and Electronics Engineering**, BITS Pilani,\\
@@ -22,14 +22,11 @@ Education
 
 ---
 
-Dissertation (Ongoing)
+Dissertation (M.A. Development Studies)[mads.sangeethvarma.com]
 ===
-Topic : Relation between public understanding(s) of science(s) and response towards crises in Kerala, in light of COVID-19
+**The Scientific Publics in Keralam:\\ A Study of Kerala Shastra Sahitya Parishad During the COVID-19 Pandemic**
 
 Supervisor: Dr Suresh Madhavan, TISS, Mumbai
-
-Investigating the way the attitudes towards, and understandings of, various fields (medicine, economics, history, and so on) and institutions of knowledge relate to and inform people's responses towards crises, using the COVID-19 pandemic as a starting point. Survey and Interviews are in progress.
-
 ---
 
 Experience
