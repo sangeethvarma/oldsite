@@ -22,9 +22,9 @@ Education
 
 ---
 
-[Dissertation (M.A. Development Studies)[mads.sangeethvarma.com]]
+[Dissertation (M.A. Development Studies)](mads.sangeethvarma.com)
 ===
-**The Scientific Publics in Keralam:\\ A Study of Kerala Shastra Sahitya Parishad During the COVID-19 Pandemic**
+**The Scientific Publics in Keralam: A Study of Kerala Shastra Sahitya Parishad During the COVID-19 Pandemic**
 
 Supervisor: Dr Suresh Madhavan, TISS, Mumbai
 ---
