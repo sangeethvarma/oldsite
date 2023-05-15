@@ -92,7 +92,7 @@ Languages
 ---------
 * Proficient in: English, Malayalam, Hindi
 * Familiar with: Tamil
-* Can comprehend basic Spanish, French and German
+* Basic comprehension in Spanish
 
 ---
 
