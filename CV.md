@@ -33,7 +33,7 @@ Experience
 
 Research
 ------
-**Thesis Work**, QTran Lab,\\
+**Thesis Work**: QTran Lab,\\
 Indian Institute of Science Education and Research, Thiruvananthapuram\\
 (May 2017- December 2018)
   
@@ -70,22 +70,26 @@ School of Development Studies, TISS Mumbai
 Skills
 ======
 
-Technical Proficiency
+Technical Proficiencies
 ---------------------
+* Qualitative Research Methods
+  - Literature Review, Surveys, Interviews, Focus Group Discussions
+  - Familiar with software tools such as ATLAS.ti, online surveying tools, different tools for transcription and translation
 * Statistics and Quantitative Research
   - Proficient at quantitative research methods
   - Software tools such as MATLAB, numpy, Stata, SPSS, R
 * Data Acquisition, Processing, Organization and Visualisation Technologies
-* Qualitative Research Methods
 * Computer Programming 
   - Languages : Python, C++, some familiarity with lisps
 * Web Development
-  - Basics of HTML, CSS and JavaScript
+* Hosting and Server Management Basics
 * Databases
   - SQL, as well general Relational Database operations
 * Typesetting (LaTEX)
 * Office Software
+* Basics of audio and video editing, and live-streaming (using open-source tools)
 * General proficiency with scripting, computers and technology
+
 
 Languages
 ---------
@@ -97,7 +101,6 @@ Languages
 
 Publication
 ======
-
 Sharma, C.H., Surendran, A.P., **Varma, S.S.** et al. 2D superconductivity and vortex dynamics in 1T-MoS2. Commun Phys 1, 90 (2018).\\
 <https://www.nature.com/articles/s42005-018-0091-7>
  
