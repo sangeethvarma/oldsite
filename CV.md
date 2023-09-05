@@ -26,7 +26,7 @@ Experience
 
 Research
 ---
-[**Dissertation** ,M.A. Development Studies](http://mads.sangeethvarma.com)
+__[**Dissertation** ,M.A. Development Studies](http://mads.sangeethvarma.com)__
 
 "The Scientific Publics in Keralam: A Study of Kerala Shastra Sahitya Parishad During the COVID-19 Pandemic" : Critically examining the activities and discourses of the KSSP, the People’s Science Movement of Kerala - historically, as well as in the context of the COVID-19 pandemic - and situating it in the context of the scientific public sphere of Keralam and developmental discourse, in order to examine the response of a decentralised popular movement to changing society and to its crises.
 Work included:
@@ -37,7 +37,7 @@ Work included:
   - categorising the content by theme, type and relevance;
   - transcribing, translating and analysing the relevant videos.
 
-Theses for M.Sc. Physics and B.E. Electrical and Elecrtonics Engineering
+__Theses for M.Sc. Physics and B.E. Electrical and Elecrtonics Engineering__
 
 Working in the Quantum Transport group at the Indian Institute of Science Education and Research, Thiruvananthapuram under Dr. Madhu Thalakulam.
 Work included:
@@ -55,15 +55,13 @@ External Courses
 - 2021 UNCTAD YSI Summer School 2021 on Globalization and Development Strategies jointly organized by the United Nations Conference on Trade and Development (UNCTAD) and the Institute of New Economic Thinking’s Young Scholars Initiative (YSI)
 
 Teaching
---------
+---
 - 2022:  Qualified the National Eligibility Test (NET) in Eligibility for Assistant Professorship for Political Science, conducted by the University Grants Commission, India
 - 2018 - 2019: Tutored a group of peers from diverse backgrounds in math, English and social sciences.
 
-Organisational
---------------
-* Panel Coordinator, Session on Diversity, Institutions, and Change,\\
-8th National Conference on Diversity and Development,\\
-School of Development Studies, TISS Mumbai
+Organisation
+---
+* Panel Coordinator, Session on Diversity, Institutions, and Change, 8th National Conference on Diversity and Development, School of Development Studies, TISS Mumbai
 * Organizing Committee Member, TEDxBITSGoa (2013-2017)
 * Coordinator, BITS Goa Quiz Club (2015-2016)
   - Organiser, participant and winner of many quizzes at the national and regional levels
@@ -71,10 +69,10 @@ School of Development Studies, TISS Mumbai
 ---
 
 Skills
-======
+===
 
 Technical Proficiencies
----------------------
+---
 * Qualitative Research Methods
   - Literature Review, Surveys, Interviews, Focus Group Discussions
   - Familiar with software tools such as ATLAS.ti, online surveying tools, different tools for transcription and translation
