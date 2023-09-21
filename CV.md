@@ -26,9 +26,9 @@ Experience
 
 Research
 ---
-__[**Dissertation** ,M.A. Development Studies](http://mads.sangeethvarma.com)__
+__[**Dissertation** , M.A. Development Studies](http://mads.sangeethvarma.com)__
 
-"The Scientific Publics in Keralam: A Study of Kerala Shastra Sahitya Parishad During the COVID-19 Pandemic" : Critically examining the activities and discourses of the KSSP, the People’s Science Movement of Kerala - historically, as well as in the context of the COVID-19 pandemic - and situating it in the context of the scientific public sphere of Keralam and developmental discourse, in order to examine the response of a decentralised popular movement to changing society and to its crises.
+"The Scientific Publics in Keralam: A Study of the Kerala Shastra Sahitya Parishad During the COVID-19 Pandemic" : Critically examining the activities and discourses of the KSSP, the People’s Science Movement of Kerala - historically, as well as in the context of the COVID-19 pandemic - and situating it in the context of the scientific public sphere of Keralam and developmental discourse, in order to examine the response of a decentralised popular movement to changing society and to its crises.
 Work included:
 - Review of the literature on the KSSP, on philosophies of science and on science and society.
 - Finding reports on the activities of the KSSP in newspapers and on the internet
@@ -75,20 +75,31 @@ Technical Proficiencies
 ---
 * Qualitative Research Methods
   - Literature Review, Surveys, Interviews, Focus Group Discussions
-  - Familiar with software tools such as ATLAS.ti, online surveying tools, different tools for transcription and translation
+  - Familiar with software tools for analysis, online surveying, transcription and translation
+
 * Statistics and Quantitative Research
   - Proficient at quantitative research methods
   - Software tools such as MATLAB, numpy, Stata, SPSS, R
+    
 * Data Acquisition, Processing, Organization and Visualisation Technologies
+  - Familiarity with control systems for management of sensors and other devices, data transfer technologies and protocols
+  
 * Computer Programming 
   - Languages : Python, C++, some familiarity with lisps
+
 * Web Development
+  
 * Hosting and Server Management Basics
+  
 * Databases
   - SQL, as well general Relational Database operations
+
 * Typesetting (LaTEX)
+
 * Office Software
+
 * Basics of audio and video editing, and live-streaming (using open-source tools)
+
 * General proficiency with scripting, computers and technology
 
 
@@ -96,7 +107,7 @@ Languages
 ---------
 * Proficient in: English, Malayalam, Hindi
 * Familiar with: Tamil
-* Basic comprehension in Spanish
+* Basic Spanish
 
 ---
 
