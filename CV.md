@@ -26,7 +26,7 @@ Experience
 
 Research
 ---
-__[**Dissertation** , M.A. Development Studies](http://mads.sangeethvarma.com)__
+__[**Dissertation**, M.A. Development Studies](http://mads.sangeethvarma.com)__
 
 "The Scientific Publics in Keralam: A Study of the Kerala Shastra Sahitya Parishad During the COVID-19 Pandemic" : Critically examining the activities and discourses of the KSSP, the People’s Science Movement of Kerala - historically, as well as in the context of the COVID-19 pandemic - and situating it in the context of the scientific public sphere of Keralam and developmental discourse, in order to examine the response of a decentralised popular movement to changing society and to its crises.
 Work included:
