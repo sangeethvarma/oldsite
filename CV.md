@@ -19,10 +19,10 @@ redirect_from:
 
 ## Other Courses {#external-courses}
 
--   2021 Summer Crash Course on Ecological and Feminist Macroeconomics
+-   [2021 Summer Crash Course on Ecological and Feminist Macroeconomics](https://www.ub.edu/school-economics/summer-crash-course/)
     conducted by the Faculty of Economics and Business, Universitat de
     Barcelona
--   2021 UNCTAD YSI Summer School 2021 on Globalization and Development
+-   [2021 UNCTAD YSI Summer School 2021 on Globalization and Development](https://unctad.org/system/files/information-document/2021-summer-school-documents_en.pdf)
     Strategies jointly organized by the United Nations Conference on
     Trade and Development (UNCTAD) and the Institute of New Economic
     Thinking\'s Young Scholars Initiative (YSI)
@@ -31,7 +31,7 @@ redirect_from:
 
 ## Work
 
-### Internship, Sustainable Food Systems, Council on Energy, Environment and Water
+### Internship, [Sustainable Food Systems, Council on Energy, Environment and Water](https://www.ceew.in/research/sustainable-food-systems)
 
 Worked primarily in the Climate Smart Agriculture (CSA) Project, with
 focus on the institutionalization of CSA in Bihar and the scaling up of
@@ -107,7 +107,7 @@ Work included:
 -   March, 2022: As part of a team, designed, conducted and analyzed a
     household-based survey on Multidimensional Poverty Index, Community
     Well-being, and Institutional Interface in Vashi Naka, Mumbai on
-    behalf of YUVA India. Created a report: \"Breaking the Cycle of
+    behalf of [YUVA India](https://yuvaindia.org/). Created a report: \"Breaking the Cycle of
     Poverty: Exploring the Multidimensional Poverty Index and
     Institutional Interface to Promote Community Well-being\", that was
     well-received by the organization.
@@ -162,7 +162,7 @@ Work included:
 -   Computer Programming
 
     -   Languages:
-        -   Proficient with [Python]{.underline} (primarily scripting,
+        -   Proficient with Python (primarily scripting,
             and data analysis aspects)
         -   Basic knowledge and some experience with lisps, C++
 
